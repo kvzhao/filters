@@ -1,2 +1,2 @@
-![alt tag](https://github.com/kvzhao/filters/grad.pbm)
+![alt tag](https://raw.githubusercontent.com/kvzhao/filters/grad.pbm)
 
