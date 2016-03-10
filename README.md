@@ -1,2 +1,2 @@
-![alt tag](https://raw.githubusercontent.com/kvzhao/filters/gradient.png)
+![My image](https://raw.githubusercontent.com/kvzhao/filters/result.png)
 
