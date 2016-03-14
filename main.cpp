@@ -34,7 +34,12 @@ int main(int argc, char *argv[]) {
    Image grad;
    gradient(gray, grad);
 
+   Image blur;
+   GaussianFilter2D(gray, blur);
+
    imwrite("gradient", grad);
+   imwrite("gaussian", blur);
+
 
    cout << "Done.\n";
    return 0;

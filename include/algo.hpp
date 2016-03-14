@@ -9,6 +9,6 @@ void convert(const Image &src, Image &dest, Code c);
 void gradient(const Image &in, Image &out);
 
 // 2D Gaussian Filter with 
-void GaussainFilter(const Image &in, Image &out);
+void GaussianFilter2D(const Image &in, Image &out);
 
 #endif // ALGO_H_
